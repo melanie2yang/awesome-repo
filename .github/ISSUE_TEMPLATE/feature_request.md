@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: '这是feature的模版标题'
 labels: ''
-assignees: ''
+assignees: 'assignees111'
 
 ---
 
